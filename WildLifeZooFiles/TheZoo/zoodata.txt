@@ -1,0 +1,2 @@
+0002302 Marney          Mammal           SeaLion           0 0
+0002303 Vern           Oviparous        Pelican            2 0
